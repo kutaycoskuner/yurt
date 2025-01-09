@@ -120,7 +120,8 @@ I also collect various quality sources with Creative Commons license family.
 | Desc | Name| Last Access Date|
 | :-- | :-- | :--: |
 | glTF Format 3D Assets | [Khronos Group glTF-Sample Assets repository](https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main) | 2024-01-09
-| Various CC license sources | [Polyhaven](https://polyhaven.com/) | 2024-01-09
-| CC0 Images | [Pexels](https://www.pexels.com/) | 2024-01-09
-| CC0 Images | [Unsplash](https://unsplash.com/s/photos/cc0) | 2024-01-09
+| Images | [Pexels](https://www.pexels.com/) | 2024-01-09
+| Images | [Unsplash](https://unsplash.com/s/photos/cc0) | 2024-01-09
 | Madjin CC0 Repository | [awesome-cc0](https://github.com/madjin/awesome-cc0) | 2024-01-09
+| Textures, Models, HDRIs | [AmbientCG](https://ambientcg.com/) | 2024-01-09
+| Textures, Models, HDRIs | [Polyhaven](https://polyhaven.com/) | 2024-01-09
