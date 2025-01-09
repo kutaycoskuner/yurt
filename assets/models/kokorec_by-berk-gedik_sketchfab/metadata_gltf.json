@@ -1,0 +1,23 @@
+{
+    "name": "kokorec",
+    "description" : "Kokoreç is a Turkish meal. It is made of lamb intestines. Intestines of suckling lambs (süt kuzusu) is most favored for this dish. It is not a standard menu item in restaurants. It can be found in any street. Kokoreç can be cooked in many ways.",
+    "version" : 1,  
+    "type": "model",
+    "format": "gltf",
+    "accessDate" : "2025-01-09",
+    "screenshot" : "ss_sketchfab.png",
+    "path" : "gltf",
+    "tags" : ["model", "test"],
+    "legal" : [
+        {
+            "author" : "Berk Gedik",
+            "owner" : "Berk Gedik",
+            "source": "https://sketchfab.com/3d-models/street-food-vendor-challenge-kokorec-141db37d07fc4ccba84ab5f38a8181b5",
+            "publishDate" : "2020-07-19",
+            "license" : "CC-BY-4.0",
+            "licenceURL" : "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "what" : "everything"
+        }
+    ],
+    "template": 1
+}

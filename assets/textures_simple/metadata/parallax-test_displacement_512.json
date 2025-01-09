@@ -1,0 +1,30 @@
+{
+    "name": "parallax-test_displacement_512",
+    "description" : "a texture for testing parallax mapping",
+    "version" : 1,  
+    "type": "texture",
+    "format": "png",
+    "accessDate" : "2025-01-09",
+    "screenshot" : "",
+    "path" : "./parallax-test_displacement_512.png",
+    "tags" : ["texture", "test"],
+    "legal" : [
+        {
+            "author" : "Kutay Coskuner",
+            "owner" : "Kutay Coskuner",
+            "source": "",
+            "publishDate" : "2025-01-09",
+            "license" : "CC0-1.0",
+            "licenceURL" : "https://creativecommons.org/publicdomain/zero/1.0/",
+            "what" : "everything"
+        }
+    ],
+    "modifications": [
+        {
+            "name": "",
+            "author": "",
+            "description": ""
+        }
+    ],
+    "template": 1
+}
