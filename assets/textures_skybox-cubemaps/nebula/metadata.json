@@ -1,0 +1,30 @@
+{
+    "name": "nebula",
+    "description" : "a simple skybox nebula consist of six jpg formatted textures each for one face of cubemap",
+    "version" : 1,  
+    "type": "texture, cubemap",
+    "format": "jpg",
+    "accessDate" : "2025-01-09",
+    "screenshot" : "",
+    "path" : "./nebula",
+    "tags" : ["cubemap", "skybox"],
+    "legal" : [
+        {
+            "author" : "Kutay Coskuner",
+            "owner" : "Kutay Coskuner",
+            "source": "",
+            "publishDate" : "2025-01-09",
+            "license" : "CC0-1.0",
+            "licenceURL" : "https://creativecommons.org/publicdomain/zero/1.0/",
+            "what" : "everything"
+        }
+    ],
+    "modifications": [
+        {
+            "name": "",
+            "author": "",
+            "description": ""
+        }
+    ],
+    "template": 1
+}
