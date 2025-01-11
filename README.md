@@ -37,7 +37,10 @@ For simpler assets who do not have their own directory like simple textures, met
     "tags" : [],
     "legal" : [
         {
-            "author" : "",
+            "authors" : 
+            [
+                ""
+            ],
             "owner" : "",
             "source": "",
             "publishDate" : "",
@@ -48,12 +51,11 @@ For simpler assets who do not have their own directory like simple textures, met
     ],
     "modifications": [
         {
-            "name": "",
             "author": "",
             "description": ""
         }
     ],
-    "template": 1
+    "template": 2
 }
 ```
 
