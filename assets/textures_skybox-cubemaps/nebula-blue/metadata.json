@@ -1,0 +1,30 @@
+{
+    "name": "nebula-blue",
+    "description" : "skybox nebula consist of six jpg formatted textures each for one face of cubemap",
+    "version" : 1,  
+    "type": "texture, cubemap",
+    "format": "jpg",
+    "accessDate" : "2025-01-11",
+    "screenshot" : "",
+    "path" : "./nebula-blue",
+    "tags" : ["cubemap", "skybox"],
+    "legal" : [
+        {
+            "author" : "Kutay Coskuner",
+            "owner" : "Kutay Coskuner",
+            "source": "",
+            "publishDate" : "2025-01-09",
+            "license" : "CC-BY-4.0",
+            "licenceURL" : "https://creativecommons.org/licenses/by/4.0/",
+            "what" : "everything"
+        }
+    ],
+    "modifications": [
+        {
+            "name": "",
+            "author": "",
+            "description": ""
+        }
+    ],
+    "template": 1
+}
