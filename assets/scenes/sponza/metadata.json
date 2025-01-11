@@ -1,0 +1,29 @@
+{
+    "name": "Sponza",
+    "description": "Building interior, often used to test lighting.",
+    "version": 2,
+    "type": "scene",
+    "format": "gltf",
+    "accessDate": "2025-01-11",
+    "screenshot": "ss_sponza.jpg",
+    "path": "gltf",
+    "tags": ["core"],
+    "legal": [
+        {
+            "authors": ["Frank Meinl"],
+            "owner": "Crytek",
+            "source": "https://github.com/KhronosGroup/glTF-Sample-Assets",
+            "publishDate": "2010-08-19",
+            "license": "LicenseRef-CRYENGINE-Agreement",
+            "licenceURL": "https://www.cryengine.com/ce-terms",
+            "what": "everything"
+        }
+    ],
+    "modifications": [
+        {
+            "author": "Alexandre Pastana",
+            "description": "Tangents have been computed using MikkTSpace"
+        }
+    ],
+    "template": 2
+}
