@@ -2,13 +2,20 @@
  Yurt
 </h1>
 
-This repository is a collection of curated or created assets by creative commons license family mainly for testing or modeling web-, game-design and graphics programming. This repository is extensively sampled from Khronos Groups' [glTF-Sample-Assets repository](https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main).
+This repository is a collection of curated or created assets by creative commons and other open source license families mainly for testing or modeling web-, game-design and graphics programming. This repository is extensively sampled from Khronos Groups' [glTF-Sample-Assets repository](https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main).
 
 __What is yurt?__  
 Yurt is a portable tent used by various nomadic cultures. Built with minimal materials and tools, it offers a cozy and functional dwelling for its inhabitants. Beyond its practicality, the yurt symbolizes community, openness, and resilience—serving as a steadfast shelter and a place to create a home, even in the most challenging natural environments. It is aimed to provide set of tools for you to start your journey on creative wilderness.
 
 In modern Turkish it means student dormitory, also it is the name of mobile depot in the virtual realm of EvE Online.
 
+
+
+<p align="center">
+    <img alt="'Yurt' Mobile Depot (Eve Online)" src="https://wiki.eveuniversity.org/images/c/c4/Mobile_Depot_image.jpg" />
+        <br>
+    <sub><i>'Yurt' Mobile Depot (Eve Online)</i></sub>
+</p>
 
 # Asset Metadata Structure
 Every asset in this repository aimed to contain metadata file in json format to provide collected information about the asset.  
@@ -49,21 +56,6 @@ For simpler assets who do not have their own directory like simple textures, met
     "template": 1
 }
 ```
-
-__License Field__  
-should be one of this given fields.
-
-| Abbreviation | License Name | License | Legal 
-|--|--|--|--|
-| CC-BY | Attribution-ShareAlike | [Deed](https://creativecommons.org/licenses/by/4.0/) | [Code](https://creativecommons.org/licenses/by/4.0/legalcode)
-| CC-BY-SA | Attribution-ShareAlike | [Deed](https://creativecommons.org/licenses/by-sa/4.0/) | [Code](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
-| CC-BY-ND | Attribution-NoDerivatives | [Deed](https://creativecommons.org/licenses/by-nd/4.0/) | [Code](https://creativecommons.org/licenses/by-nd/4.0/legalcode)
-| CC-BY-NC | Attribution-NonCommercial | [Deed](https://creativecommons.org/licenses/by-nc/4.0/) | [Code](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
-| CC-BY-NC-SA | Attribution-NonCommercial-ShareAlike | [Deed](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
-| CC-BY-NC-ND | Attribution-NonCommercial-NoDerivatives | [Deed](https://creativecommons.org/licenses/by-nc-nd/4.0/) | [Code](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
-| CC0 | No Rights Reserved | [Deed](https://creativecommons.org/publicdomain/zero/1.0/) | [Code](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
-
-
 
 # Asset Naming Conventions
 
@@ -119,9 +111,10 @@ I also collect various quality sources with Creative Commons license family.
 
 | Desc | Name| Last Access Date|
 | :-- | :-- | :--: |
-| glTF Format 3D Assets | [Khronos Group glTF-Sample Assets repository](https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main) | 2024-01-09
-| Images | [Pexels](https://www.pexels.com/) | 2024-01-09
-| Images | [Unsplash](https://unsplash.com/s/photos/cc0) | 2024-01-09
-| Madjin CC0 Repository | [awesome-cc0](https://github.com/madjin/awesome-cc0) | 2024-01-09
-| Textures, Models, HDRIs | [AmbientCG](https://ambientcg.com/) | 2024-01-09
-| Textures, Models, HDRIs | [Polyhaven](https://polyhaven.com/) | 2024-01-09
+| glTF Format 3D Assets | [Khronos Group glTF-Sample Assets repository](https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main) | 2025-01-09
+| Images | [Pexels](https://www.pexels.com/) | 2025-01-09
+| Images | [Unsplash](https://unsplash.com/s/photos/cc0) | 2025-01-09
+| Madjin CC0 Repository | [awesome-cc0](https://github.com/madjin/awesome-cc0) | 2025-01-09
+| Textures, Models, HDRIs | [AmbientCG](https://ambientcg.com/) | 2025-01-09
+| Textures, Models, HDRIs | [Polyhaven](https://polyhaven.com/) | 2025-01-09
+| Scenes, Models | [Intel GPU Research Samples](https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html) | 2025-01-11
