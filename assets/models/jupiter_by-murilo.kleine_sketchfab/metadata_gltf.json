@@ -1,0 +1,26 @@
+{
+    "name": "jupiter",
+    "description" : "a simple spherical model with jupiter texture",
+    "version" : 1,  
+    "type": "model",
+    "format": "gltf",
+    "accessDate" : "2025-01-19",
+    "screenshot" : "ss_gltf.png",
+    "path" : "gltf",
+    "tags" : ["model", "sketchfab"],
+    "legal" : [
+        {
+            "authors" : 
+            [
+                "murilo.kleine (sketchfab.com)"
+            ],
+            "owner" : "murilo.kleine (sketchfab.com)",
+            "source": "https://sketchfab.com/3d-models/jupiter-free-downloadable-model-61671f29ca0a4fa39dc9653290282418",
+            "publishDate" : "2018-06-28",
+            "license" : "CC-BY-4.0",
+            "licenceURL" : "https://creativecommons.org/licenses/by/4.0/",
+            "what" : "unknown"
+        }
+    ],
+    "template": 2
+}
