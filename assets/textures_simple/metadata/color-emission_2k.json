@@ -1,0 +1,27 @@
+{
+    "name": "color-emission-2k",
+    "description" : "a test texture",
+    "version" : 1,  
+    "type": "texture",
+    "format": "jpg",
+    "accessDate" : "2025-01-19",
+    "screenshot" : "",
+    "path" : "./color-emission_2k.jpg",
+    "tags" : ["texture", "test"],
+    "legal" : [
+        {
+            "authors" : [
+                "Kutay Coskuner"
+            ],
+            "owner" : "Kutay Coskuner",
+            "source": "",
+            "publishDate" : "2025-01-19",
+            "license" : "CC0-1.0",
+            "licenceURLs" : [
+                "https://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "what" : "created through manipulating base test texture in blender"
+        }
+    ],
+    "template": 3
+}

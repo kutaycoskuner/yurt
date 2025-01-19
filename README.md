@@ -7,15 +7,8 @@ This repository is a collection of curated or created assets by creative commons
 __What is yurt?__  
 Yurt is a portable tent used by various nomadic cultures. Built with minimal materials and tools, it offers a cozy and functional dwelling for its inhabitants. Beyond its practicality, the yurt symbolizes community, openness, and resilience—serving as a steadfast shelter and a place to create a home, even in the most challenging natural environments. It is aimed to provide set of tools for you to start your journey on creative wilderness.
 
-In modern Turkish it means student dormitory, also it is the name of mobile depot in the virtual realm of EvE Online.
+In modern Turkish it means homeland and/or dormitory, also it is the given name of 'mobile depot' in the virtual realm of EvE Online.
 
-
-
-<p align="center">
-    <img alt="'Yurt' Mobile Depot (Eve Online)" src="https://wiki.eveuniversity.org/images/c/c4/Mobile_Depot_image.jpg" />
-        <br>
-    <sub><i>'Yurt' Mobile Depot (Eve Online)</i></sub>
-</p>
 
 # Asset Metadata Structure
 Every asset in this repository aimed to contain metadata file in json format to provide collected information about the asset.  
@@ -33,19 +26,22 @@ For simpler assets who do not have their own directory like simple textures, met
     "format": "",
     "accessDate" : "",
     "screenshot" : "",
-    "path" : "",
+    "paths" : [
+        ""
+    ],
     "tags" : [],
     "legal" : [
         {
-            "authors" : 
-            [
+            "authors" : [
                 ""
             ],
             "owner" : "",
             "source": "",
             "publishDate" : "",
             "license" : "",
-            "licenceURL" : "",
+            "licenceURLs" : [
+                ""
+            ],
             "what" : ""
         }
     ],
@@ -55,7 +51,7 @@ For simpler assets who do not have their own directory like simple textures, met
             "description": ""
         }
     ],
-    "template": 2
+    "template": 4
 }
 ```
 
@@ -87,7 +83,7 @@ gamma-test_srgb_2k
 ### 2. Models
 _Directory Template_
 ```html
-<name-of-the-model>_[by-<name-of-the-authors>]_<source>_<format>
+<name-of-the-model>_[by-<name-of-the-authors>]_<source>
 ```
 _Example_
 ```bash
@@ -96,11 +92,14 @@ lantern_polyhaven (author is unknown)
 ```
 
 ### 3. Scenes
-
+_Directory Template_
 ```html
-not yet implemented
+<name-of-the-scene>_[by-<name-of-the-authors>]_[<source>]
 ```
-
+_Example_
+```bash
+sponza
+```
 
 # Folder Structure
 

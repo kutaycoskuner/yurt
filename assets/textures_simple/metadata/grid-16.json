@@ -1,0 +1,36 @@
+{
+    "name": "grid-16",
+    "description" : "a simple block cover texture",
+    "version" : 1,  
+    "type": "texture",
+    "format": "png",
+    "accessDate" : "2025-01-19",
+    "screenshot" : "",
+    "paths" : [
+        "./grid-16_darkgray_2k_color.png",
+        "./grid-16_white_2k_color.png"
+    ],
+    "tags" : ["test"],
+    "legal" : [
+        {
+            "authors" : [
+                "Kutay Coskuner"
+            ],
+            "owner" : "Kutay Coskuner",
+            "source": "",
+            "publishDate" : "2025-01-19",
+            "license" : "CC0-1.0",
+            "licenceURLs" : [
+                "https://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "what" : "everything. created by blender shader nodes"
+        }
+    ],
+    "modifications": [
+        {
+            "author": "",
+            "description": ""
+        }
+    ],
+    "template": 4
+}
