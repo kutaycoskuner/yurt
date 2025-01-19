@@ -120,3 +120,4 @@ not yet implemented
 | Scenes, Models | [Intel GPU Research Samples](https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html) | 2025-01-11
 | Scene          | [Amazon Lumberyard Bistro (NVIDIA ORCA Collection)](https://developer.nvidia.com/orca/amazon-lumberyard-bistro) | 2025-01-19
 | Scenes, Models | [Morgan McGuire, Computer Graphics Archive](https://casual-effects.com/data/) | 2025-01-19
+| Models, Datasets | [Wolfram Data Repository](https://datarepository.wolframcloud.com/) | 2025-01-19
