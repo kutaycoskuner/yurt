@@ -108,8 +108,7 @@ not yet implemented
 not yet implemented
 ```
 
-# Other Similar Sources
-I also collect various quality sources with Creative Commons license family.
+# Curated Sources
 
 | Desc | Name| Last Access Date|
 | :-- | :-- | :--: |
@@ -120,3 +119,5 @@ I also collect various quality sources with Creative Commons license family.
 | Textures, Models, HDRIs | [AmbientCG](https://ambientcg.com/) | 2025-01-09
 | Textures, Models, HDRIs | [Polyhaven](https://polyhaven.com/) | 2025-01-09
 | Scenes, Models | [Intel GPU Research Samples](https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html) | 2025-01-11
+| Scene          | [Amazon Lumberyard Bistro (NVIDIA ORCA Collection)](https://developer.nvidia.com/orca/amazon-lumberyard-bistro) | 2025-01-19
+| Scenes, Models | [Morgan McGuire, Computer Graphics Archive](https://casual-effects.com/data/) | 2025-01-19

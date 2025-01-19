@@ -1,0 +1,26 @@
+{
+    "name": "lantern",
+    "description" : "a lantern model with complex details and good topology",
+    "version" : 1,  
+    "type": "model",
+    "format": "gltf",
+    "accessDate" : "2025-01-19",
+    "screenshot" : "ss_gltf_2k.png",
+    "path" : "gltf",
+    "tags" : ["model", "scene"],
+    "legal" : [
+        {
+            "authors" : 
+            [
+                "Rajil Jose Macatangay"
+            ],
+            "owner" : "polyhaven",
+            "source": "https://polyhaven.com/a/Lantern_01",
+            "publishDate" : "2021",
+            "license" : "CC0",
+            "licenceURL" : "https://polyhaven.com/license",
+            "what" : "unkonwn"
+        }
+    ],
+    "template": 2
+}
