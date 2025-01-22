@@ -23,7 +23,7 @@ For simpler assets who do not have their own directory like simple textures, met
     "description" : "",
     "version" : 1,  
     "type": "",
-    "format": "",
+    "formats": [""],
     "accessDate" : "",
     "screenshot" : "",
     "paths" : [
@@ -51,7 +51,7 @@ For simpler assets who do not have their own directory like simple textures, met
             "description": ""
         }
     ],
-    "template": 4
+    "template": 5
 }
 ```
 

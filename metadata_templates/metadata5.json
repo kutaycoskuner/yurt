@@ -1,0 +1,35 @@
+{
+    "name": "",
+    "description" : "",
+    "version" : 1,  
+    "type": "",
+    "formats": [""],
+    "accessDate" : "",
+    "screenshot" : "",
+    "paths" : [
+        ""
+    ],
+    "tags" : [],
+    "legal" : [
+        {
+            "authors" : [
+                ""
+            ],
+            "owner" : "",
+            "source": "",
+            "publishDate" : "",
+            "license" : "",
+            "licenceURLs" : [
+                ""
+            ],
+            "what" : ""
+        }
+    ],
+    "modifications": [
+        {
+            "author": "",
+            "description": ""
+        }
+    ],
+    "template": 5
+}
