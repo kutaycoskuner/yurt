@@ -89,6 +89,7 @@ _Example_
 ```bash
 kokorec_by-berk-gedik_sketchfab_obj
 lantern_polyhaven (author is unknown)
+lantern (bare minimum)
 ```
 
 ### 3. Scenes
@@ -102,9 +103,15 @@ sponza
 ```
 
 # Folder Structure
-
-```html
-not yet implemented
+```plaintext
+:root:
+├── models/                     3d single object models
+├── scenes/                     3d scenes with multiple objects, animations, lighting ...
+│
+├── textures_cubemaps/          2d six piece cubemap textures
+├── textures_pbr/               2d pbr textures with various maps such as normal, roughness etc.
+├── textures_simple/            2d single textures
+└── textures_hdri/              2d high dynamic range lighting textures
 ```
 
 # Curated Sources
@@ -121,3 +128,4 @@ not yet implemented
 | Scene          | [Amazon Lumberyard Bistro (NVIDIA ORCA Collection)](https://developer.nvidia.com/orca/amazon-lumberyard-bistro) | 2025-01-19
 | Scenes, Models | [Morgan McGuire, Computer Graphics Archive](https://casual-effects.com/data/) | 2025-01-19
 | Models, Datasets | [Wolfram Data Repository](https://datarepository.wolframcloud.com/) | 2025-01-19
+| Scenes, Models | [Blender Demo Files](https://www.blender.org/download/demo-files/) | 2025-01-28

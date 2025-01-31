@@ -1,0 +1,35 @@
+{
+    "name": "suzanne",
+    "description" : "Suzanne is Blender's default monkey head model, often used as a placeholder or test object in 3D modeling, animation, and rendering.",
+    "version" : 1,  
+    "type": "model",
+    "formats": ["obj"],
+    "accessDate" : "2025-01-31",
+    "screenshot" : "ss_suzanne_2k_blender.png",
+    "paths" : [
+        "obj"
+    ],
+    "tags" : ["model","monkey","blender"],
+    "legal" : [
+        {
+            "authors" : [
+                "Willem-Paul van Overbruggen"
+            ],
+            "owner" : "Blender",
+            "source": "blender",
+            "publishDate" : "2002",
+            "license" : "GPL-v2",
+            "licenceURLs" : [
+                "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+            ],
+            "what" : "all"
+        }
+    ],
+    "modifications": [
+        {
+            "author": "Kutay Coskuner",
+            "description": "Object grounded through physics simulation in blender"
+        }
+    ],
+    "template": 5
+}
