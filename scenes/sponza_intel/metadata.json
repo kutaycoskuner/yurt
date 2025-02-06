@@ -1,0 +1,41 @@
+{
+    "name": "sponza_intel",
+    "description" : "Sponza 2022 Scene created by Frank Meinl.",
+    "version" : 1,  
+    "type": "scene",
+    "formats": ["gltf"],
+    "accessDate" : "2025-02-06",
+    "screenshot" : "ss_cycles.png",
+    "paths" : [
+        "gltf"
+    ],
+    "tags" : ["sponza", "scene"],
+    "legal" : [
+        {
+            "authors" : [
+                "Frank Meinl",
+                "Katica Putica",
+                "Cristiano Siqueira",
+                "Timothy Heath",
+                "Justin Prazen",
+                "Sebastian Herholz",
+                "Bruce Cherniak"
+            ],
+            "owner" : "Frank Meinl",
+            "source": "https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html",
+            "publishDate" : "2022",
+            "license" : "CC-BY-4.0",
+            "licenceURLs" : [
+                "https://creativecommons.org/licenses/by/4.0/deed.en"
+            ],
+            "what" : "everything"
+        }
+    ],
+    "modifications": [
+        {
+            "author": "Kutay Coskuner",
+            "description": "Base scene with curtains and ivy combined in Blender, optimized for older hardware by replacing textures with 1K versions."
+        }
+    ],
+    "template": 5
+}

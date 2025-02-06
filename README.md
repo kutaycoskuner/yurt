@@ -4,6 +4,12 @@
 
 This repository is a collection of curated or created assets by creative commons and other open source license families mainly for testing or modeling web-, game-design and graphics programming. This repository is extensively sampled from Khronos Groups' [glTF-Sample-Assets repository](https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main).
 
+<p align="center">
+    <img src="scenes/outliner-testscene/ss_cycles.png" />
+    <br>
+    <sub><i> Outliner Test Scene</i></sub>
+</p>
+
 __What is yurt?__  
 Yurt is a portable tent used by various nomadic cultures. Built with minimal materials and tools, it offers a cozy and functional dwelling for its inhabitants. Beyond its practicality, the yurt symbolizes community, openness, and resilience—serving as a steadfast shelter and a place to create a home, even in the most challenging natural environments. It is aimed to provide set of tools for you to start your journey on creative wilderness.
 
@@ -109,9 +115,9 @@ sponza
 ├── scenes/                     3d scenes with multiple objects, animations, lighting ...
 │
 ├── textures_cubemaps/          2d six piece cubemap textures
+├── textures_hdri/              2d high dynamic range lighting textures
 ├── textures_pbr/               2d pbr textures with various maps such as normal, roughness etc.
-├── textures_simple/            2d single textures
-└── textures_hdri/              2d high dynamic range lighting textures
+└── textures_simple/            2d single textures
 ```
 
 # Curated Sources

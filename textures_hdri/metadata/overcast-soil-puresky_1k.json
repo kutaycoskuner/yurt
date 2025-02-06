@@ -1,0 +1,36 @@
+{
+    "name": "overcast-soil-puresky",
+    "description" : "a cloudy hdr texture",
+    "version" : 1,  
+    "type": "hdr",
+    "formats": ["hdr"],
+    "accessDate" : "2025-02-06",
+    "screenshot" : "",
+    "paths" : [
+        "./overcast-soil-puresky_1k.hdr"
+    ],
+    "tags" : ["hdr", "basic", "sky"],
+    "legal" : [
+        {
+            "authors" : [
+                "Sergej Majboroda",
+                "Jarod Guest"
+            ],
+            "owner" : "Sergej Majboroda",
+            "source": "https://polyhaven.com/a/overcast_soil_puresky",
+            "publishDate" : "2024",
+            "license" : "CC0",
+            "licenceURLs" : [
+                "https://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "what" : "everything"
+        }
+    ],
+    "modifications": [
+        {
+            "author": "",
+            "description": ""
+        }
+    ],
+    "template": 5
+}
