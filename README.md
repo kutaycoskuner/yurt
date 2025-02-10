@@ -114,6 +114,7 @@ sponza
 ├── models/                     3d single object models
 ├── scenes/                     3d scenes with multiple objects, animations, lighting ...
 │
+├── textures_alpha/             2d alpha brushes, textures
 ├── textures_cubemaps/          2d six piece cubemap textures
 ├── textures_hdri/              2d high dynamic range lighting textures
 ├── textures_pbr/               2d pbr textures with various maps such as normal, roughness etc.

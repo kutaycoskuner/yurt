@@ -1,0 +1,35 @@
+{
+    "name": "scratch01_512",
+    "description" : "an alpha mask brush texture",
+    "version" : 1,  
+    "type": "texture",
+    "formats": ["png"],
+    "accessDate" : "2025-02-10",
+    "screenshot" : "",
+    "paths" : [
+        "./scratch01_512.png"
+    ],
+    "tags" : ["alpha mask"],
+    "legal" : [
+        {
+            "authors" : [
+                "Kutay Coskuner"
+            ],
+            "owner" : "Kutay Coskuner",
+            "source": "",
+            "publishDate" : "2025-02-10",
+            "license" : "CC0-1.0",
+            "licenceURLs" : [
+                "https://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "what" : "everything"
+        }
+    ],
+    "modifications": [
+        {
+            "author": "",
+            "description": ""
+        }
+    ],
+    "template": 5
+}
