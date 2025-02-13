@@ -136,3 +136,4 @@ sponza
 | Scenes, Models | [Morgan McGuire, Computer Graphics Archive](https://casual-effects.com/data/) | 2025-01-19
 | Models, Datasets | [Wolfram Data Repository](https://datarepository.wolframcloud.com/) | 2025-01-19
 | Scenes, Models | [Blender Demo Files](https://www.blender.org/download/demo-files/) | 2025-01-28
+| Models, Textures ... | [PBRPX](https://library.pbrpx.com/asset?category=995) | 2025-02-11 

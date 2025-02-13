@@ -1,0 +1,35 @@
+{
+    "name": "kukla02",
+    "description" : "scale reference, human mesh",
+    "version" : 1,  
+    "type": "",
+    "formats": ["gltf"],
+    "accessDate" : "2025-02-11",
+    "screenshot" : "ss_cycles_main.png",
+    "paths" : [
+        "gltf"
+    ],
+    "tags" : ["base mesh", "humanoid"],
+    "legal" : [
+        {
+            "authors" : [
+                "Kutay Coskuner"
+            ],
+            "owner" : "Kutay Coskuner",
+            "source": "",
+            "publishDate" : "2025-02-11",
+            "license" : "CC-BY-4.0",
+            "licenceURLs" : [
+                "https://creativecommons.org/licenses/by/4.0/legalcode"
+            ],
+            "what" : "everything"
+        }
+    ],
+    "modifications": [
+        {
+            "author": "",
+            "description": ""
+        }
+    ],
+    "template": 5
+}
