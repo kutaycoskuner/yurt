@@ -1,12 +1,12 @@
 {
-    "name": "parallax-test_normal_512",
-    "description" : "a texture for testing parallax mapping",
+    "name": "gamma_test-srgb-256",
+    "description" : "a texture for testing gamma correction",
     "version" : 1,  
     "type": "texture",
     "format": "png",
     "accessDate" : "2025-01-09",
     "screenshot" : "",
-    "path" : "./parallax-test_normal_512.png",
+    "path" : "./gamma_test-srgb-256.png",
     "tags" : ["texture", "test"],
     "legal" : [
         {

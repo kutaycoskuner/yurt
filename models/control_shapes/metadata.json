@@ -1,16 +1,15 @@
 {
-    "name": "grid-16",
-    "description" : "a simple block cover texture",
+    "name": "control_shapes",
+    "description" : "rig bone placeholder shapes",
     "version" : 1,  
-    "type": "texture",
-    "format": "png",
-    "accessDate" : "2025-01-19",
-    "screenshot" : "",
+    "type": "model",
+    "formats": ["blender"],
+    "accessDate" : "2025-02-12",
+    "screenshot" : "ss-blender.png",
     "paths" : [
-        "./grid-16_darkgray_2k_color.png",
-        "./grid-16_white_2k_color.png"
+        "control_shapes.blend"
     ],
-    "tags" : ["test"],
+    "tags" : ["shape", "rigging"],
     "legal" : [
         {
             "authors" : [
@@ -18,12 +17,12 @@
             ],
             "owner" : "Kutay Coskuner",
             "source": "",
-            "publishDate" : "2025-01-19",
+            "publishDate" : "2025-02-13",
             "license" : "CC0-1.0",
             "licenceURLs" : [
                 "https://creativecommons.org/publicdomain/zero/1.0/"
             ],
-            "what" : "everything. created by blender shader nodes"
+            "what" : "everything"
         }
     ],
     "modifications": [
@@ -32,5 +31,5 @@
             "description": ""
         }
     ],
-    "template": 4
+    "template": 5
 }

@@ -1,0 +1,37 @@
+{
+    "name": "linegrid_16",
+    "description" : "a simple block cover texture",
+    "version" : 1,  
+    "type": "texture",
+    "format": "png",
+    "accessDate" : "2025-01-19",
+    "screenshot" : "",
+    "paths" : [
+        "./linegrid_16-2k-emission.png",
+        "./linegrid_16-darkgray-2k-color.png",
+        "./linegrid_16-white-2k-color.png"
+    ],
+    "tags" : ["test"],
+    "legal" : [
+        {
+            "authors" : [
+                "Kutay Coskuner"
+            ],
+            "owner" : "Kutay Coskuner",
+            "source": "",
+            "publishDate" : "2025-01-19",
+            "license" : "CC0-1.0",
+            "licenceURLs" : [
+                "https://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "what" : "everything. created by blender shader nodes"
+        }
+    ],
+    "modifications": [
+        {
+            "author": "",
+            "description": ""
+        }
+    ],
+    "template": 4
+}

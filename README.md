@@ -64,44 +64,44 @@ For simpler assets who do not have their own directory like simple textures, met
 # Asset Naming Conventions
 
 __Rules for Consistent Naming__  
-1. Naming is lowercase, dash(-) character used instead of white space for multiple words.
-2. Various data types are separated by underscore (_) character within the naming.   
-    ex. name-of-asset_name-of-author
+1. Naming is lowercase, underscore (_) character used instead of white space for multiple words.
+2. Various data types are separated by dash(-) character within the naming.   
+    ex. name_of_asset-name_of_author
 3. On the template variables stated within braces <> while optional data marked encapsulated with square braces [].
 4. To handle naming collision, if the name exists in the previos list new item gets an incremental positive integer next to its name.   
-    Ex. name-of-asset1
+    Ex. name_of_asset01
 
-Please inspect the names below to understand consistent naming structure.
+You can inspect the example below to understand naming structure.
 
 ### 1. Textures  
 
 _Template_
 ```html
-<name-of-the-texture>_<detail-of-the-texture>_<resolution>
+<name_of_the_texture>-<detail_of_the_texture>-<resolution>
 ```
 
 _Example_
 ```bash
-parallax-test_displacement_512
-gamma-test_srgb_2k
+parallax_test-displacement-512
+gamma_test-srgb-2k
 ```
 
 ### 2. Models
 _Directory Template_
 ```html
-<name-of-the-model>_[by-<name-of-the-authors>]_<source>
+<name_of_the_model>-[by_<name_of_the_authors>]-<source>
 ```
 _Example_
 ```bash
-kokorec_by-berk-gedik_sketchfab_obj
-lantern_polyhaven (author is unknown)
+kokorec-by_berk_gedik-sketchfab-obj
+lantern-polyhaven (author is unknown)
 lantern (bare minimum)
 ```
 
 ### 3. Scenes
 _Directory Template_
 ```html
-<name-of-the-scene>_[by-<name-of-the-authors>]_[<source>]
+<name_of_the_scene>-[by_<name_of_the_authors>]-[<source>]
 ```
 _Example_
 ```bash
@@ -114,11 +114,11 @@ sponza
 ├── models/                     3d single object models
 ├── scenes/                     3d scenes with multiple objects, animations, lighting ...
 │
-├── textures_alpha/             2d alpha brushes, textures
-├── textures_cubemaps/          2d six piece cubemap textures
-├── textures_hdri/              2d high dynamic range lighting textures
-├── textures_pbr/               2d pbr textures with various maps such as normal, roughness etc.
-└── textures_simple/            2d single textures
+├── textures-alpha/             2d alpha brushes, textures
+├── textures-cubemaps/          2d six piece cubemap textures
+├── textures-hdri/              2d high dynamic range lighting textures
+├── textures-pbr/               2d pbr textures with various maps such as normal, roughness etc.
+└── textures-simple/            2d single textures
 ```
 
 # Curated Sources

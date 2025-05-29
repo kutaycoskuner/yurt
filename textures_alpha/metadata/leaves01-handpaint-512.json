@@ -1,15 +1,15 @@
 {
-    "name": "control-shapes",
-    "description" : "rig bone placeholder shapes",
+    "name": "leaves01-handpaint-512",
+    "description" : "an alpha mask brush texture",
     "version" : 1,  
-    "type": "model",
-    "formats": ["blender"],
-    "accessDate" : "2025-02-12",
-    "screenshot" : "ss_blender.png",
+    "type": "texture",
+    "formats": ["png"],
+    "accessDate" : "2025-05-29",
+    "screenshot" : "",
     "paths" : [
-        "control-shapes.blend"
+        "./leaves01-handpaint-512.png"
     ],
-    "tags" : ["shape", "rigging"],
+    "tags" : ["alpha mask"],
     "legal" : [
         {
             "authors" : [
@@ -17,8 +17,8 @@
             ],
             "owner" : "Kutay Coskuner",
             "source": "",
-            "publishDate" : "2025-02-13",
-            "license" : "CC0-1.0",
+            "publishDate" : "2025-05-29",
+            "license" : "",
             "licenceURLs" : [
                 "https://creativecommons.org/publicdomain/zero/1.0/"
             ],

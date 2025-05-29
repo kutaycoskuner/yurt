@@ -5,7 +5,7 @@
     "type": "model",
     "formats": ["obj"],
     "accessDate" : "2025-01-31",
-    "screenshot" : "ss_suzanne_2k_blender.png",
+    "screenshot" : "ss-suzanne-2k-blender.png",
     "paths" : [
         "obj"
     ],

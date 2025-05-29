@@ -1,5 +1,5 @@
 {
-    "name": "scratch01_512",
+    "name": "scratch01-512",
     "description" : "an alpha mask brush texture",
     "version" : 1,  
     "type": "texture",
@@ -7,7 +7,7 @@
     "accessDate" : "2025-02-10",
     "screenshot" : "",
     "paths" : [
-        "./scratch01_512.png"
+        "./scratch01-512.png"
     ],
     "tags" : ["alpha mask"],
     "legal" : [
