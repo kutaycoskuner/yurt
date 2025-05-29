@@ -1,12 +1,12 @@
 {
-    "name": "color-emission-2k",
+    "name": "color_emission-2k",
     "description" : "a test texture",
     "version" : 1,  
     "type": "texture",
     "format": "jpg",
     "accessDate" : "2025-01-19",
     "screenshot" : "",
-    "path" : "./color-emission_2k.jpg",
+    "path" : "./color_emission-2k.jpg",
     "tags" : ["texture", "test"],
     "legal" : [
         {

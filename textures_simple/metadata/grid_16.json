@@ -1,5 +1,5 @@
 {
-    "name": "linegrid-16",
+    "name": "grid_16",
     "description" : "a simple block cover texture",
     "version" : 1,  
     "type": "texture",
@@ -7,9 +7,8 @@
     "accessDate" : "2025-01-19",
     "screenshot" : "",
     "paths" : [
-        "./linegrid-16_2k_emission.png",
-        "./linegrid-16_darkgray_2k_color.png",
-        "./linegrid-16_white_2k_color.png"
+        "./grid_16-darkgray-2k-color.png",
+        "./grid_16-white-2k-color.png"
     ],
     "tags" : ["test"],
     "legal" : [

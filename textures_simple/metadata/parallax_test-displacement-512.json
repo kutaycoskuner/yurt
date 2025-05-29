@@ -1,12 +1,12 @@
 {
-    "name": "parallax-test_displacement_512",
+    "name": "parallax_test-displacement-512",
     "description" : "a texture for testing parallax mapping",
     "version" : 1,  
     "type": "texture",
     "format": "png",
     "accessDate" : "2025-01-09",
     "screenshot" : "",
-    "path" : "./parallax-test_displacement_512.png",
+    "path" : "./parallax_test-displacement-512.png",
     "tags" : ["texture", "test"],
     "legal" : [
         {

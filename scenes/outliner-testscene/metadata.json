@@ -5,7 +5,7 @@
     "type": "scene",
     "formats": ["gltf", "obj"],
     "accessDate" : "2025-01-19",
-    "screenshot" : "ss_cycles.png",
+    "screenshot" : "ss-cycles.png",
     "paths" : ["gltf", "obj"],
     "tags" : ["scene"],
     "legal" : [
