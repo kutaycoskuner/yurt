@@ -5,7 +5,7 @@
 This repository is a collection of curated or created assets by creative commons and other open source license families mainly for testing or modeling web-, game-design and graphics programming. This repository is extensively sampled from Khronos Groups' [glTF-Sample-Assets repository](https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main).
 
 <p align="center">
-    <img src="scenes/outliner-testscene/ss_cycles.png" />
+    <img src="scenes/outliner-testscene/ss-cycles.png" />
     <br>
     <sub><i> Outliner Test Scene</i></sub>
 </p>
